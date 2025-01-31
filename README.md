@@ -28,15 +28,3 @@ All queries used for analysis are documented in the [`sales_analysis.sql`](sales
 - **Relational Databases**
 - **GitHub for version control**
 
----
-
-### **Step 5: Commit & Push to GitHub**  
-
-Now that `sales_analysis.sql` and `README.md` are ready, let's push them to **GitHub**.
-
-#### **1. Check Status of Your Files**
-Open **Command Prompt (`cmd`)**, navigate to your project folder, and check which files are ready to be committed:
-
-```bash
-cd C:\Users\YourUsername\Documents\sales-data-analysis
-git status

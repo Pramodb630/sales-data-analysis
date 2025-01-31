@@ -21,10 +21,3 @@ All queries used for analysis are documented in the [`sales_analysis.sql`](sales
 2. Run the queries from `sales_analysis.sql` in your SQL environment (e.g., MySQL, PostgreSQL, SQL Server).
 3. Review the results and interpret key findings.
 
-## Technologies Used
-- **SQL**
-- **Looker**
-- **DBT**
-- **Relational Databases**
-- **GitHub for version control**
-
